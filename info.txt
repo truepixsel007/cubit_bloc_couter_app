@@ -1,0 +1,6 @@
+#v1 Cubit State Management | Cubit tutorial for beginners | Cubit Bloc
+  
+ *Cubit
+  1- Extend cubit = Create a class that extends Cubit<State>
+  2- Register = Register it using BlocProvider
+  3- Bloc Builder = Use BlocBuilder to rebuild UI on state change
